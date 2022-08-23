@@ -2392,7 +2392,7 @@
     react-test-renderer "^18.0.0"
     semver "^5.7.0"
 
-"@mui/x-data-grid-generator@^5.15.2":
+"@mui/x-data-grid-generator@^5.15.3":
   version "5.15.3"
   resolved "https://registry.yarnpkg.com/@mui/x-data-grid-generator/-/x-data-grid-generator-5.15.3.tgz#7a4f2c1cff7dcdd6bc1f566e09fb4bde7f3bed1a"
   integrity sha512-TzMqYSoLqVoP9C4nMT38uB4+6lXG0+6R0CeGdAibzRcIfomxog+94xm3gPpLmxbaMgm/B/3JtjKSrKsI7Q5bZg==
@@ -2420,7 +2420,7 @@
     prop-types "^15.8.1"
     reselect "^4.1.6"
 
-"@mui/x-data-grid-pro@5.15.3", "@mui/x-data-grid-pro@^5.15.2":
+"@mui/x-data-grid-pro@5.15.3", "@mui/x-data-grid-pro@^5.15.3":
   version "5.15.3"
   resolved "https://registry.yarnpkg.com/@mui/x-data-grid-pro/-/x-data-grid-pro-5.15.3.tgz#f8976e373b9b9f330ebadce16d1ba9bf9e7473a9"
   integrity sha512-cV8ykVqECjyzGJ+i+YnMOjlghvzQL0Uedo7u0As0lNxEYfuzaB41LedF9wxzYYRLV1hxsmxWyExLwvHAaHMfvA==
@@ -2434,7 +2434,7 @@
     prop-types "^15.8.1"
     reselect "^4.1.6"
 
-"@mui/x-data-grid@5.15.3", "@mui/x-data-grid@^5.15.2":
+"@mui/x-data-grid@5.15.3", "@mui/x-data-grid@^5.15.3":
   version "5.15.3"
   resolved "https://registry.yarnpkg.com/@mui/x-data-grid/-/x-data-grid-5.15.3.tgz#5db4d9810cf1ee8aeb4b28fde2e287fad3da47f4"
   integrity sha512-W1LrnCyFS/be7sppCf4EDGbwN6UgbdwqW0bW2eGK8Twmc2+upkmetHjvPodHhdtZ9onxrIJkfiPQG0PBzz5eIw==
@@ -2445,7 +2445,7 @@
     prop-types "^15.8.1"
     reselect "^4.1.6"
 
-"@mui/x-date-pickers-pro@^5.0.0-beta.5":
+"@mui/x-date-pickers-pro@^5.0.0-beta.6":
   version "5.0.0-beta.6"
   resolved "https://registry.yarnpkg.com/@mui/x-date-pickers-pro/-/x-date-pickers-pro-5.0.0-beta.6.tgz#41bb707f3303de23a1b9e9ff8651b17b866af69e"
   integrity sha512-JMInM8agAqu8V5qJHrVlnddJYeimumGpqxANsxnoJaWY82i+LljyZ1m94aYFisfG4OupOUX/YqCjxDEFHwyQng==
@@ -2463,7 +2463,7 @@
     react-transition-group "^4.4.5"
     rifm "^0.12.1"
 
-"@mui/x-date-pickers@5.0.0-beta.6", "@mui/x-date-pickers@^5.0.0-beta.5":
+"@mui/x-date-pickers@5.0.0-beta.6", "@mui/x-date-pickers@^5.0.0-beta.6":
   version "5.0.0-beta.6"
   resolved "https://registry.yarnpkg.com/@mui/x-date-pickers/-/x-date-pickers-5.0.0-beta.6.tgz#a8130d5f61ad7411ada1564b2d514123df480668"
   integrity sha512-8NS3s1uslmmZLl1KVCJ6eu9Wnago0EUdRb4NTCmJOwphE2w7cdI4LP+ZGRH7uWtkb6dQEmum1oumBAB3g4Ix+A==
@@ -2491,7 +2491,7 @@
     esm "^3.2.25"
     yargs "^17.5.1"
 
-"@mui/x-license-pro@5.15.3", "@mui/x-license-pro@^5.15.0":
+"@mui/x-license-pro@5.15.3", "@mui/x-license-pro@^5.15.3":
   version "5.15.3"
   resolved "https://registry.yarnpkg.com/@mui/x-license-pro/-/x-license-pro-5.15.3.tgz#a6a9181ba573949ecb3f0dc8aca8cca81472fd43"
   integrity sha512-99R3YRA+FTyhZEg7UYxNLRQBgdA8Eqpeiea8lUuOxaZrHLiPKLIM0HkCp1/t8e0TkvsmQBl4t4pi5K/obX2dSA==
